@@ -6,6 +6,8 @@ Phone: +375296657605
 Email: mikhail.terskov@gmail.com
 
 GitHub: miterskoff 
+
+
 *****
 
 ### About Me: 
