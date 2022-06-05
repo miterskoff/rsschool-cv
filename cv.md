@@ -19,10 +19,19 @@ My hobbies are: playing guitar, japan cars, gym, basketball and reading books.
 * Git/GitHub
 * VS Code
 
-
 ### Code example:
 ```
 function multiply (a, b) {
 return a * b
 }
 ```
+ ### Education and courses:
+ * Institute of entrepreneurship
+ * HTML Academy
+ * RS School «JavaScript/Front-end. Stage 0» (in progress)
+
+### Languages:
+* English (Upper-intermidiate)
+* Polska (Intermidiate)
+* Russian (Native)
+* Belorussian (Native)
